@@ -24,7 +24,6 @@ Currently, I'm diving deeper into backend systems, working with databases, APIs,
 - Building scalable backend systems with **Node.js**, **Express**, and **Prisma** or **Mongoose**.
 - Creating responsive and dynamic frontends with **React** and **TypeScript**.
 - Exploring database optimization and real-time features with **MySQL** and WebSockets.
-- Learning and experimenting with cloud technologies like AWS to enhance my skill set.
 
 ## 📫 Get in Touch
 
